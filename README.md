@@ -14,6 +14,6 @@ MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing
   title     = {MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing},
   author    = {Kangneng Zhou, Daiheng Gao, Xuan Wang, Jie Zhang, Peng Zhang, Xusen Sun, Longhao Zhang, Shiqi Yang, Bang Zhang, Liefeng Bo, Yaxing Wang},
   journal   = {arXiv preprint arXiv:2312.06947},
-  website   = {https://humanaigc.github.io/mate3d/},
+  website   = {https://humanaigc.github.io/MaTe3D/},
   year      = {2023}}
 ```
